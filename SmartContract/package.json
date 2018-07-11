@@ -12,6 +12,7 @@
   "author": "7madoka",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^6.0.0",
     "openzeppelin-solidity": "^1.10.0",
     "truffle-hdwallet-provider": "^0.0.5"
   }

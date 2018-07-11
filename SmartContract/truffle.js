@@ -20,8 +20,9 @@ module.exports = {
                 );
             },
             network_id: 3,
-            gas: 2000000,
-            gasPrice: 20000000000	// 20 Gwei
+            gas: 4700000,
+            gasPrice: 20000000000
+            // 20 Gwei
         },
         mainnet: {
             provider: function () {
@@ -31,7 +32,7 @@ module.exports = {
                 );
             },
             network_id: 1,
-            gas: 2000000,
+            gas: 4700000,
             gasPrice: 20000000000 // 20 Gwei
         }
     }
