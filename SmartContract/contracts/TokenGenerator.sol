@@ -9,6 +9,7 @@ contract TokenGenerator is Ownable {
     // サービス利用料送付先
     // Ropsten test network: 0x4a0ddc5da715cb8e2d95669829a5ce8610137d14
     // Local network: 0x627306090abab3a6e1400e9345bc60c78a8bef57
+    // Main network: 0x4A0DdC5DA715CB8E2D95669829A5CE8610137d14
     address internal fund = 0x4A0DdC5DA715CB8E2D95669829A5CE8610137d14;
 
     // Constructor
